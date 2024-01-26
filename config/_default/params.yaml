@@ -36,9 +36,9 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Omid Razmpour | A Nursing Advocate on a Misson to Improve the Nursing Workforce'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -55,6 +55,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: 'https://orazmpour.github.io/'
     content_dir: starters/blog/content
     branch: main
