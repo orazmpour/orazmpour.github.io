@@ -18,7 +18,6 @@ superuser: true
 
 # Role/position/tagline
 role: Ph.D. and MBA Candidate
-url: https://www.nursing.emory.edu/profile-groups/phd-student-profiles
 
 # Organizations/Affiliations to show in About widget
 organizations:
