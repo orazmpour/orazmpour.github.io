@@ -30,7 +30,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: email
     url: 'mailto:Omid.Razmpour@emory.edu'
     label: E-mail Me
   - icon: brands/linkedin
