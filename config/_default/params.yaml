@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+  color: tan
 
 # SEO
 marketing:
@@ -40,7 +40,7 @@ footer:
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
