@@ -37,11 +37,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Omid Razmpour | A Nursing Advocate on a Misson to Improve the Nursing Workforce'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+
 
 # Localization
 locale:
