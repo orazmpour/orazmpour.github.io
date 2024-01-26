@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/omidrazmpour
-  - icon: brands/x
-    url: https://twitter.com/Omid_Razmpour
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=bFSUEmsAAAAJ&hl=en
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
