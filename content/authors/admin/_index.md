@@ -38,7 +38,7 @@ profiles:
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=bFSUEmsAAAAJ&hl=en
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: download-solid.svg 
+  - icon: download-solid
     url: https://orazmpour.github.io/uploads/ORR_PhD_2024.pdf
     label: Download my resume
 
