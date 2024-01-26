@@ -39,7 +39,7 @@ profiles:
     url: https://scholar.google.com/citations?user=bFSUEmsAAAAJ&hl=en
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: download-solid
-    url: ORR_PhD_2024
+    url: ORR_PhD_2024.pdf
     label: Download my resume
 
 # Highlight the author in author lists? (true/false)
