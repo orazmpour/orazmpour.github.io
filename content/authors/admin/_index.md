@@ -49,6 +49,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an executive administrative intern at Emory Healthcare, where I focus on three projects aimed at bolstering nursing workforce investment through cost accounting, machine learning, and curriculum development. Mentored by Drs. Sharon Pappas and Tim Cunningham, I also work as a doctoral research assistant at Emory University School of Nursing, concentrating on healthcare finance, economics, administration, and nurse workforce issues. My career goal is to emerge as a leader and innovator in the field of nursing science and healthcare administration, driven by my passion for improving healthcare quality, safety, and workforce well-being.
