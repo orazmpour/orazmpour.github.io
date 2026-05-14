@@ -1,0 +1,12 @@
+{
+  "_comment_1": "Copy this file to config.json (cp config.example.json config.json) and fill in your real values.",
+  "_comment_2": "Generate a Gmail App Password at https://myaccount.google.com/apppasswords (2FA must be enabled first).",
+  "_comment_3": "An app password looks like 'abcd efgh ijkl mnop' (16 chars, with or without spaces).",
+
+  "gmail_email": "your.address@gmail.com",
+  "gmail_app_password": "abcdefghijklmnop",
+  "recipient_emails": [
+    "Omid.razmpour@emory.edu",
+    "dcginouves@gmail.com"
+  ]
+}
